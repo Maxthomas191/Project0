@@ -19,7 +19,8 @@ Some pages have buttons which is the bootstrap [component](https://getbootstrap.
 * [First CSS](style.css) -pure css, using alot of css property and mobile-responsive
 * [Second CSS](nostyle.css) -using [scss](nostyle.scss) compile to css.
 * [SCSS](nostyle.scss) -an example of nesting and inheritance.
-
+### Video
+[Video](https://www.youtube.com/watch?v=uTYHsezX-IE&feature=youtu.be) that demonstrate app functionality and walk viewers through the code.
 ## Photos
 * **the golden pagodas illuminate the city of Bangkok** 
 ![alt text](thailand.png)
