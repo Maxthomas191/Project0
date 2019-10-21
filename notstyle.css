@@ -1,0 +1,22 @@
+html {
+  font-family: 'Roboto',sans-serif;
+  margin: 10px 10px; }
+
+h1 {
+  color: red;
+  font-weight: bold; }
+
+main {
+  background-color: white; }
+  main .warning, main .message {
+    color: lightgreen;
+    font-weight: 700; }
+    main .warning article, main .message article {
+      color: black; }
+
+.message {
+  border: 1px solid black;
+  width: 10%;
+  background-color: yellow; }
+
+/*# sourceMappingURL=notstyle.css.map */

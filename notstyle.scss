@@ -1,0 +1,24 @@
+html {
+  font-family: 'Roboto',sans-serif;
+  margin: 10px 10px;
+}
+h1 {
+  color: red;
+  font-weight: bold;
+}
+main {
+  background-color: white;
+  .warning {
+    color: lightgreen;
+    font-weight: 700;
+    article {
+      color: black;
+    }
+  }
+}
+.message {
+  @extend .warning;
+  border: 1px solid black;
+  width: 10%;
+  background-color: yellow;
+}
